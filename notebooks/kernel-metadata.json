@@ -1,0 +1,15 @@
+{
+  "id": "brianedwards/diabetes-prediction-ensemble-claude-code",
+  "title": "Diabetes Prediction Ensemble Claude Code",
+  "code_file": "s5e12_diabetes_prediction.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "false",
+  "enable_gpu": "false",
+  "enable_tpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": ["playground-series-s5e12"],
+  "kernel_sources": [],
+  "model_sources": []
+}
