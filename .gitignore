@@ -224,3 +224,5 @@ catboost_info/
 kaggle.json
 *.token
 .secrets/
+client_secret*.json
+credentials.json
