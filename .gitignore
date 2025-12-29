@@ -205,3 +205,22 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Kaggle
+data/
+*.zip
+submissions/
+*.csv
+
+# Model artifacts
+*.pkl
+*.joblib
+*.model
+*.cbm
+*.bin
+catboost_info/
+
+# Secrets
+kaggle.json
+*.token
+.secrets/
